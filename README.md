@@ -2,10 +2,10 @@ Matheus Seabra Mazucato
 Tayler Henrique
 
 Fizemos a pesquisa de cada elemento e separamos em botãos onde você clica e aparece o resultado
-![image](https://github.com/MatheusSeabra/transformations/assets/101134295/4d4d38a9-a2b5-4697-8c2b-fa5e9b37d9d3)
-![image](https://github.com/MatheusSeabra/transformations/assets/101134295/968c81f1-6009-4a94-bc65-483fd6489c90)
-![image](https://github.com/MatheusSeabra/transformations/assets/101134295/97a397c9-0783-452f-8fa1-99f2ba7f7f5d)
-![image](https://github.com/MatheusSeabra/transformations/assets/101134295/4c3c8944-0bac-4826-9101-768bf4edca49)
+![image](https://github.com/MatheusSeabra/Resolu-o-da-atividade/assets/101134295/fc892273-a9ae-488e-8a3e-ade6fd203eab)
+![image](https://github.com/MatheusSeabra/Resolu-o-da-atividade/assets/101134295/06456a32-8928-499a-8d08-9a0acd3fc139)
+![image](https://github.com/MatheusSeabra/Resolu-o-da-atividade/assets/101134295/08c71b8c-9bec-452e-934e-b98fab921fde)
+![image](https://github.com/MatheusSeabra/Resolu-o-da-atividade/assets/101134295/51a459f6-c307-4b7a-b3e2-a75e0855e752)
 
 
 Todos metodos usa base um retangulo, então criei uma classe retangulo e reutilizei em todas
@@ -21,4 +21,9 @@ Transform: A transformação é um termo geral que engloba translação, rotaç�
 
 Clipping Path: Clipping Path (ou "caminho de recorte") é uma técnica de recorte usada em design gráfico e edição de imagens. Envolve a criação de uma máscara (caminho) que define a área visível de uma imagem e oculta as partes fora desse caminho. Isso é útil para criar recortes precisos de objetos ou para criar áreas de corte em imagens.
 
-Não consegui coloca movimentação nem colisão nos objetos
+![image](https://github.com/MatheusSeabra/Resolu-o-da-atividade/assets/101134295/3901c8ef-598a-48fa-9618-19fe48abde0a)
+![image](https://github.com/MatheusSeabra/Resolu-o-da-atividade/assets/101134295/05726dd6-3d2e-488a-95d7-a2ad83b0927c)
+![image](https://github.com/MatheusSeabra/Resolu-o-da-atividade/assets/101134295/0ebe5a68-6b9f-4099-89ea-4f0a9c168877)
+
+
+codigos do github
