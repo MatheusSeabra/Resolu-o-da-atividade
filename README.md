@@ -10,7 +10,7 @@ Fizemos a pesquisa de cada elemento e separamos em botãos onde você clica e ap
 
 
 
-Todos metodos usa base um retangulo, então criei uma classe retangulo e reutilizei em todas
+Todos metodos usa base um retangulo, então criei uma classe retangulo e reutilizei em todas, e modificando as propriedades de cada, usei alguns functions e umas variaveis para realizar esse trabalho fiz o maximo que pude nesse tempo espero ter realizado as espectativas
 
 
 Translação: Translação é um termo utilizado para descrever o movimento de um objeto de um ponto para outro no espaço, geralmente ao longo de uma linha reta. Em um contexto gráfico, isso envolve mover um objeto (ou sua posição) em uma determinada direção por uma certa quantidade de unidades.
