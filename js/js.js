@@ -17,9 +17,6 @@ function mover(){
     if((px + largrent>= l_canvas)||(px <= 0)){
         dx*=-1;
       }
-    if ((py + comprent>= r_canvas)||(py <=0)){
-        dy *= -1;
-    }
 
 }
 
@@ -75,7 +72,6 @@ function tran(){
     ctx.fillRect(0, 0, 250, 100);
 }
 function clip(){
-    
     // Cria um novo caminho e desenha um retângulo
     ctx.fillStyle = "pink"
     ctx.beginPath();
