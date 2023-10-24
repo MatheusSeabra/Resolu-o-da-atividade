@@ -6,6 +6,8 @@ Fizemos a pesquisa de cada elemento e separamos em botãos onde você clica e ap
 ![image](https://github.com/MatheusSeabra/Resolu-o-da-atividade/assets/101134295/06456a32-8928-499a-8d08-9a0acd3fc139)
 ![image](https://github.com/MatheusSeabra/Resolu-o-da-atividade/assets/101134295/08c71b8c-9bec-452e-934e-b98fab921fde)
 ![image](https://github.com/MatheusSeabra/Resolu-o-da-atividade/assets/101134295/51a459f6-c307-4b7a-b3e2-a75e0855e752)
+![image](https://github.com/MatheusSeabra/Resolu-o-da-atividade/assets/101134295/76321fb6-4393-4e50-986d-d20b4b103608)
+
 
 
 Todos metodos usa base um retangulo, então criei uma classe retangulo e reutilizei em todas
